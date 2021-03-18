@@ -1,0 +1,4 @@
+#Thu Mar 18 23:42:47 NPT 2021
+base.0=C\:\\Users\\surya\\AndroidStudioProjects\\Fragments_DMA\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
